@@ -112,3 +112,25 @@ margin-right: 19%;
 }
 
 /* form / sec 3 ends*/
+
+
+
+/* forum*/
+
+
+#margin-from-top{
+    margin-bottom: 25%;
+}
+
+.submit-button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    background-color: black;
+}
+/* forum ends */
